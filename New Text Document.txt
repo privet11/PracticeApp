@@ -1,0 +1,1 @@
+httpsus-east-2.console.aws.amazon.comec2v2homeregion=us-east-2#Instances
